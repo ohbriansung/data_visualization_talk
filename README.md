@@ -14,6 +14,7 @@ Chien-Yu (Brian) Sung
 
 0. Sophie Engle - [page](https://sjengle.cs.usfca.edu/research.html)
 1. Jordan Aldujaili - [LinkedIn](https://www.linkedin.com/in/jaldujaili/)
+2. Emmit Parubrub - [LinkedIn](https://www.linkedin.com/in/emmit-parubrub/)
 
 ## Slides
 
