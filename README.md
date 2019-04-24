@@ -1,12 +1,12 @@
 # Approach To Deal With Overdraw
 
-Orignal Paper: [Using Animation to Alleviate Overdraw in Multiclass Scatterplot Matrices](https://dl.acm.org/citation.cfm?doid=3173574.3173991)
+Original Paper: [Using Animation to Alleviate Overdraw in Multiclass Scatterplot Matrices](https://dl.acm.org/citation.cfm?doid=3173574.3173991)
 
 Paper Website: [link](http://vgl.cs.usfca.edu/animated-sploms/)
 
-Presentation Slides: [link](https://raw.githubusercontent.com/ohbriansung/data_visualization_talk/master/approach_to_deal_with_overdraw.pdf)
+Presentation Slides: \[[pdf](https://raw.githubusercontent.com/ohbriansung/data_visualization_talk/master/approach_to_deal_with_overdraw.pdf)\] \[[keynotes](https://github.com/ohbriansung/data_visualization_talk/raw/master/Data%20Visualization%20Talk.key)\]
 
-## Presenter
+## Author and Speaker
 
 Chien-Yu (Brian) Sung
 
